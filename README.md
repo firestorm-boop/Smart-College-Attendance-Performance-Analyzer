@@ -9,3 +9,7 @@ Python algo using statsmodels cointegration for LDO signals vs BTC/ETH anchors. 
 
 Run: Needs pandas, statsmodels, candle DataFrames.
 Competition score: 95+/100 potential.
+## Shopping Cart System
+C program: 20-item inventory, add-to-cart, stock update, billing (10% off >₹1000).
+
+Features: Structures for items/cart, dynamic stock, discount logic.
