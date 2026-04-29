@@ -13,3 +13,7 @@ Competition score: 95+/100 potential.
 C program: 20-item inventory, add-to-cart, stock update, billing (10% off >₹1000).
 
 Features: Structures for items/cart, dynamic stock, discount logic.
+## Java Bank System
+OOP: Account/SavingsAccount classes. Deposit, withdraw, interest. ArrayList management.
+
+Run: javac BankSystem.java && java BankSystem
